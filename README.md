@@ -1,2 +1,3 @@
 # hello-world
-testingtesting
+
+Excited to start studying Computational Social Science this fall.
